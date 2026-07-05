@@ -1,2 +1,2 @@
-:HL["/_next/static/chunks/0arxvpv400wn9.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"dKFVFaCdsqIF8ELKwlSuh"}
+:HL["/digital-equity/_next/static/css/ca146652f0ed3903.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"PM18bf8qtBjJquLl4cXHM"}
